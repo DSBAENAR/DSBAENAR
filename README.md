@@ -44,10 +44,6 @@
   <a href="https://linkedin.com/in/tunombredeusuario" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tunombredeusuario" height="30" width="40" />
   </a>
-  <a href="https://twitter.com/tunombredeusuario" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tunombredeusuario" height="30" width="40" />
-  </a>
-  <!-- Añade más redes sociales según necesites -->
 </p>
 
 ---
