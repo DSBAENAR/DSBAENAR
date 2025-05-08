@@ -52,15 +52,6 @@
 
 ---
 
-⭐️ De [tunombredeusuario](https://github.com/tunombredeusuario)
-```
+⭐️ De [DSBAENAR](https://github.com/DSBAENAR)
 
-Para usar este perfil:
-
-1. Crea un repositorio en GitHub con el mismo nombre que tu nombre de usuario
-2. Añade un archivo README.md con este contenido
-3. Personaliza el contenido reemplazando "[Tu Nombre]", "tunombredeusuario" y los demás marcadores de posición con tu información
-4. Añade tus propios proyectos, habilidades y enlaces de contacto
-
-Este diseño incluye secciones para presentarte, mostrar tus habilidades, estadísticas de GitHub, proyectos destacados y formas de contacto. Puedes personalizarlo según tus preferencias y necesidades.
 
