@@ -23,10 +23,10 @@
 
 ## Proyectos Destacados
 <p align="left">
-  <a href="https://github.com/tunombredeusuario/proyecto1">
+  <a href="https://github.com/DSBAENAR/PlantsvsZombies">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=DSBAENAR&repo=PlantsvsZombies" alt="proyecto1" />
   </a>
-  <a href="https://github.com/tunombredeusuario/proyecto2">
+  <a href="https://github.com/DSBAENAR/Gestion-Turnos-ECIBienestar">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=DSBAENAR&repo=Gestion-Turnos-ECIBienestar" alt="proyecto2" />
   </a>
   <a href="https://github.com/Ttowers-09/API_RESERVALABS_BACKEND.git">
