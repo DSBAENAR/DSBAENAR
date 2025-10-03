@@ -8,7 +8,6 @@ Apasionado por la tecnología y el desarrollo de software, con experiencia en ba
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" alt="SQLDB" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" alt="Spring" width="40" height="40"/>
   <!-- Añade más iconos según tus habilidades -->
 </p>
@@ -39,6 +38,7 @@ Sistema web desarrollado con Spring Boot y MongoDB para la gestión de turnos en
 <a href="https://github.com/Ttowers-09/API_RESERVALABS_BACKEND">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ttowers-09&repo=API_RESERVALABS_BACKEND" alt="API_RESERVALABS_BACKEND" />
 </a>
+<br>
 API RESTful para la gestión de reservas de laboratorios. Participé en el diseño de la arquitectura, implementación de autenticación JWT y buenas prácticas de desarrollo backend.
 
 <!-- Puedes agregar más proyectos relevantes siguiendo este formato -->
