@@ -25,11 +25,11 @@ Apasionado por la tecnología y el desarrollo de software, con experiencia en ba
 ## Proyectos Destacados
 
 <a href="https://github.com/DSBAENAR/ProjectParking">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DSBAENAR&repo=ProjectParking" alt="ProjectParking" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DSBAENAR&repo=ParkingProject" alt="ProjectParking" />
 </a>
 
 **ProjectParking**  
-Proyecto backend para la gestión de estacionamientos y reservas. Diseñé e implementé la API RESTful, modelos de dominio y la integración con la base de datos. Tecnologías destacadas: Spring Boot, JPA/Hibernate, PostgreSQL, Docker y JWT para autenticación. Enfoque en limpieza de código, pruebas unitarias y despliegue en contenedores.
+Proyecto backend para la gestión de estacionamientos y reservas. Diseñé e implementé la API RESTful, modelos de dominio y la integración con la base de datos. Tecnologías destacadas: Spring Boot, JPA/Hibernate, PostgreSQL, Docker y JWT para autenticación.
 
 <a href="https://github.com/DSBAENAR/PlantsvsZombies">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=DSBAENAR&repo=PlantsvsZombies" alt="PlantsvsZombies" />
