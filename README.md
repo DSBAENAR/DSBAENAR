@@ -24,7 +24,7 @@ Apasionado por la tecnología y el desarrollo de software, con experiencia en ba
 
 ## Proyectos Destacados
 
-<a href="https://github.com/DSBAENAR/ProjectParking">
+<a href="https://github.com/DSBAENAR/ParkingProject">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=DSBAENAR&repo=ParkingProject" alt="ProjectParking" />
 </a>
 
