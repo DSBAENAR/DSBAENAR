@@ -9,6 +9,7 @@ Apasionado por la tecnología y el desarrollo de software, con experiencia en ba
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" alt="SQLDB" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" alt="Spring" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <!-- Añade más iconos según tus habilidades -->
 </p>
 
@@ -22,6 +23,13 @@ Apasionado por la tecnología y el desarrollo de software, con experiencia en ba
 </p>
 
 ## Proyectos Destacados
+
+<a href="https://github.com/DSBAENAR/ProjectParking">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DSBAENAR&repo=ProjectParking" alt="ProjectParking" />
+</a>
+
+**ProjectParking**  
+Proyecto backend para la gestión de estacionamientos y reservas. Diseñé e implementé la API RESTful, modelos de dominio y la integración con la base de datos. Tecnologías destacadas: Spring Boot, JPA/Hibernate, PostgreSQL, Docker y JWT para autenticación. Enfoque en limpieza de código, pruebas unitarias y despliegue en contenedores.
 
 <a href="https://github.com/DSBAENAR/PlantsvsZombies">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=DSBAENAR&repo=PlantsvsZombies" alt="PlantsvsZombies" />
