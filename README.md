@@ -1,62 +1,59 @@
-# ¡Hola, soy David Salomon Baena Rubio! 👋
+# David Salomón Baena Rubio's CV
 
-## Sobre mí
-Apasionado por la tecnología y el desarrollo de software, con experiencia en backend, bases de datos y desarrollo de aplicaciones prácticas y de entretenimiento. En constante aprendizaje y siempre buscando aportar valor a través de soluciones bien diseñadas.
+- Phone: +57 322 9500207
+- Email: [dsbrubio@gmail.com](mailto:dsbrubio@gmail.com)
+- Location: Bogotá,CO
+- Website: [dsbaenar.info](https://dsbaenar.info/)
+- LinkedIn: [david-salomón-baena-rubio](https://linkedin.com/in/david-salomón-baena-rubio)
+- GitHub: [DSBAENAR](https://github.com/DSBAENAR)
 
-## Habilidades y Tecnologías
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" alt="SQLDB" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" alt="Spring" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <!-- Añade más iconos según tus habilidades -->
-</p>
 
-## Estadísticas de GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DSBAENAR&show_icons=true&locale=es" alt="DSBAENAR" />
-</p>
+# Sobre mí
+Ingeniero de Sistemas de la Escuela Colombiana de Ingeniería Julio Garavito, con 1 año de experiencia en despliegue y administración de soluciones en la nube, utilizando AWS y Azure. Experiencia en gestión de proyectos, administración de bases de datos, y optimización de procesos tecnológicos.Orientado a la resolución de problemas, adaptable y comprometido con la mejora continua y el desarrollo de soluciones tecnológicas eficientes e innovadoras.
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DSBAENAR&locale=es" alt="DSBAENAR" />
-</p>
+# Educación
+## **Escuela Colombiana de Ingeniería Julio Garavito**,  in Computer Science -- Bogotá, CO2027
 
-## Proyectos Destacados
 
-<a href="https://github.com/DSBAENAR/ParkingProject">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DSBAENAR&repo=ParkingProject" alt="ProjectParking" />
-</a>
 
-**ProjectParking**  
-Proyecto backend para la gestión de estacionamientos y reservas. Diseñé e implementé la API RESTful, modelos de dominio y la integración con la base de datos. Tecnologías destacadas: Spring Boot, JPA/Hibernate, PostgreSQL, Docker y JWT para autenticación.
+# Proyectos
+## **[DrawSync](https://github.com/daviespr1406/DrawSyncFront)** -- **Bogotá, CO**
 
-<a href="https://github.com/DSBAENAR/PlantsvsZombies">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DSBAENAR&repo=PlantsvsZombies" alt="PlantsvsZombies" />
-</a>
+Ene 2025 – Jun 2025
 
-Juego clásico desarrollado en Java con arquitectura MVC. Implementé la lógica para enemigos y la gestión de eventos del juego.
+Infraestructura del servidor para un juego multijugador de dibujo colaborativo en tiempo real. Gestiona salas de juego, comunicación en tiempo real mediante WebSockets, sincronización de temporizadores y transmisión de mensajes entre todos los clientes conectados.
 
-<a href="https://github.com/DSBAENAR/Gestion-Turnos-ECIBienestar">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DSBAENAR&repo=Gestion-Turnos-ECIBienestar" alt="Gestion-Turnos-ECIBienestar" />
-</a>
+- Chatear en tiempo real y comunicarse mediante chat de voz
 
-Sistema web desarrollado con Spring Boot y MongoDB para la gestión de turnos en centros de bienestar. Fui responsable del backend y la integración de la base de datos.
+- Manejo de Autenticación y autorización con proveedor externo usando AWS cognito
 
-<a href="https://github.com/Ttowers-09/API_RESERVALABS_BACKEND">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ttowers-09&repo=API_RESERVALABS_BACKEND" alt="API_RESERVALABS_BACKEND" />
-</a>
-<br>
-API RESTful para la gestión de reservas de laboratorios. Participé en el diseño de la arquitectura, implementación de autenticación JWT y buenas prácticas de desarrollo backend.
+- Sistema de lobby, temporizadores sincronizados y actualizaciones en tiempo real.
 
-<!-- Puedes agregar más proyectos relevantes siguiendo este formato -->
 
-## Contacto
-<p align="left">
-  <a href="https://linkedin.com/in/tunombredeusuario" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tunombredeusuario" height="30" width="40" />
-  </a>
-  <!-- Agrega tu email o redes profesionales si lo consideras relevante -->
-</p>
 
----
+## **[Gestión de Turnos ECIBienestar](https://github.com/DSBAENAR/Gestion-Turnos-ECIBienestar)** -- **Bogotá, CO**
+
+Ago 2024 – Dic 2024
+
+Sistema de gestión de turnos desarrollado en Java usando Spring WebFlux y MongoDB, orientado a la atención de usuarios en servicios de bienestar universitario (psicología, medicina general, odontología, etc.). Proporciona una API REST para la creación, consulta y administración de turnos, con integración de autenticación mediante JWT y despliegue preparado para entornos en la nube.
+
+- Gestión de turnos: Crear, consultar, eliminar y listar turnos por usuario, rol o especialidad.
+
+- Priorización: Soporte para turnos de prioridad especial.
+
+- Roles de usuario: Control de acceso y personalización según el tipo de usuario (por ejemplo, administrador, médico, psicólogo).
+
+- Integración: Comunicación con servicios externos de autenticación y usuarios.
+
+- API documentada: Uso de Swagger/OpenAPI para facilitar la integración y pruebas.
+
+- Seguridad: Configuración de CORS y reglas de seguridad adaptadas para desarrollo y producción.
+
+
+
+# Skills
+**Languages:** Java, Python
+
+**Frameworks:** Spring, Hibernate
+
+**Infrastructure:** AWS,AZURE
