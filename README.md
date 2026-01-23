@@ -8,47 +8,44 @@
 - GitHub: [DSBAENAR](https://github.com/DSBAENAR)
 
 
-# Sobre mí
-Ingeniero de Sistemas de la Escuela Colombiana de Ingeniería Julio Garavito, con 1 año de experiencia en despliegue y administración de soluciones en la nube, utilizando AWS y Azure. Experiencia en gestión de proyectos, administración de bases de datos, y optimización de procesos tecnológicos.Orientado a la resolución de problemas, adaptable y comprometido con la mejora continua y el desarrollo de soluciones tecnológicas eficientes e innovadoras.
+# About Me
+Systems Engineer from Escuela Colombiana de Ingeniería Julio Garavito, with 1 year of experience in deploying and managing cloud solutions, using AWS and Azure. Experience in[...]  
 
-# Educación
+# Education
 ## **Escuela Colombiana de Ingeniería Julio Garavito**,  in Computer Science -- Bogotá, CO2027
 
 
-
-# Proyectos
+# Projects
 ## **[DrawSync](https://github.com/daviespr1406/DrawSyncFront)** -- **Bogotá, CO**
 
-Ene 2025 – Jun 2025
+Jan 2025 – Jun 2025
 
-Infraestructura del servidor para un juego multijugador de dibujo colaborativo en tiempo real. Gestiona salas de juego, comunicación en tiempo real mediante WebSockets, sincronización de temporizadores y transmisión de mensajes entre todos los clientes conectados.
+Server infrastructure for a real-time collaborative drawing multiplayer game. Manages game rooms, real-time communication via WebSockets, synchronized timing[...]  
 
-- Chatear en tiempo real y comunicarse mediante chat de voz
+- Real-time chat and voice chat communication
 
-- Manejo de Autenticación y autorización con proveedor externo usando AWS cognito
+- Authentication and authorization management with external provider using AWS Cognito
 
-- Sistema de lobby, temporizadores sincronizados y actualizaciones en tiempo real.
+- Lobby system, synchronized timers, and real-time updates.
 
 
+## **[Queue Management ECIBienestar](https://github.com/DSBAENAR/Gestion-Turnos-ECIBienestar)** -- **Bogotá, CO**
 
-## **[Gestión de Turnos ECIBienestar](https://github.com/DSBAENAR/Gestion-Turnos-ECIBienestar)** -- **Bogotá, CO**
+Aug 2024 – Dec 2024
 
-Ago 2024 – Dic 2024
+Queue management system developed in Java using Spring WebFlux and MongoDB, focused on serving users in university wellness services (psychology, general medicine, dentistry[...]  
 
-Sistema de gestión de turnos desarrollado en Java usando Spring WebFlux y MongoDB, orientado a la atención de usuarios en servicios de bienestar universitario (psicología, medicina general, odontología, etc.). Proporciona una API REST para la creación, consulta y administración de turnos, con integración de autenticación mediante JWT y despliegue preparado para entornos en la nube.
+- Queue management: Create, query, delete, and list appointments by user, role, or specialty.
 
-- Gestión de turnos: Crear, consultar, eliminar y listar turnos por usuario, rol o especialidad.
+- Prioritization: Support for special priority appointments.
 
-- Priorización: Soporte para turnos de prioridad especial.
+- User roles: Access control and customization based on user type (e.g., administrator, doctor, psychologist).
 
-- Roles de usuario: Control de acceso y personalización según el tipo de usuario (por ejemplo, administrador, médico, psicólogo).
+- Integration: Communication with external authentication and user services.
 
-- Integración: Comunicación con servicios externos de autenticación y usuarios.
+- Documented API: Use of Swagger/OpenAPI to facilitate integration and testing.
 
-- API documentada: Uso de Swagger/OpenAPI para facilitar la integración y pruebas.
-
-- Seguridad: Configuración de CORS y reglas de seguridad adaptadas para desarrollo y producción.
-
+- Security: CORS configuration and security rules adapted for development and production.
 
 
 # Skills
