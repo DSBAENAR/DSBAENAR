@@ -21,7 +21,7 @@ experience in deploying and managing cloud solutions using AWS and Azure. Experi
 
 Jan 2025 – Jun 2025
 
-Server infrastructure for a real-time collaborative drawing multiplayer game. Manages game rooms, real-time communication via WebSockets, synchronized timing[...]  
+Server infrastructure for a real-time collaborative drawing multiplayer game. Manages game rooms, real-time communication via WebSockets, timer synchronization, and message broadcasting between all connected clients.
 
 - Real-time chat and voice chat communication
 
@@ -34,7 +34,7 @@ Server infrastructure for a real-time collaborative drawing multiplayer game. Ma
 
 Aug 2024 – Dec 2024
 
-Queue management system developed in Java using Spring WebFlux and MongoDB, focused on serving users in university wellness services (psychology, general medicine, dentistry[...]  
+Queue management system developed in Java using Spring WebFlux and MongoDB, oriented to user assistance in university wellness services (psychology, general medicine, dentistry, etc.). Provides a REST API for creating, querying, and managing queues, with JWT authentication integration and cloud-ready deployment.
 
 - Queue management: Create, query, delete, and list appointments by user, role, or specialty.
 
