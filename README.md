@@ -9,7 +9,8 @@
 
 
 # About Me
-Systems Engineer from Escuela Colombiana de Ingeniería Julio Garavito, with 1 year of experience in deploying and managing cloud solutions, using AWS and Azure. Experience in[...]  
+Systems Engineer from Escuela Colombiana de Ingeniería Julio Garavito, with 1 year of
+experience in deploying and managing cloud solutions using AWS and Azure. Experience in project management, database administration, and optimization of technological processes. Problem-solving oriented, adaptable, and committed to continuous improvement and the development of efficient and innovative technological solutions.
 
 # Education
 ## **Escuela Colombiana de Ingeniería Julio Garavito**,  in Computer Science -- Bogotá, CO2027
