@@ -1,57 +1,85 @@
-# David Salomón Baena Rubio's CV
+<h1 align="center">David Salomón Baena Rubio</h1>
 
-- Phone: +57 322 9500207
-- Email: [dsbrubio@gmail.com](mailto:dsbrubio@gmail.com)
-- Location: Bogotá,CO
-- Website: [dsbaenar.info](https://dsbaenar.info/)
-- LinkedIn: [david-salomón-baena-rubio](https://linkedin.com/in/david-salomón-baena-rubio)
-- GitHub: [DSBAENAR](https://github.com/DSBAENAR)
+<p align="center">
+  <b>Software Engineer | Java · Microservices · Distributed Systems</b>
+</p>
 
+<p align="center">
+  <a href="https://dsbaenar.info">🌐 dsbaenar.info</a> · 
+  <a href="https://linkedin.com/in/david-salom%C3%B3n-baena-rubio">💼 LinkedIn</a> · 
+  <a href="mailto:contact@dsbaenar.info">📧 contact@dsbaenar.info</a>
+</p>
 
-# About Me
-Systems Engineer from Escuela Colombiana de Ingeniería Julio Garavito, with 1 year of
-experience in deploying and managing cloud solutions using AWS and Azure. Experience in project management, database administration, and optimization of technological processes. Problem-solving oriented, adaptable, and committed to continuous improvement and the development of efficient and innovative technological solutions.
+---
 
-# Education
-## **Escuela Colombiana de Ingeniería Julio Garavito**,  in Computer Science -- Bogotá, CO2027
+### About Me
 
+Software Engineer with **1+ year of experience** building high-throughput Java microservices with **Spring Boot** and **Spring WebFlux**. Hands-on with RESTful and WebSocket APIs, reactive programming, and end-to-end feature delivery from design to production. Experienced in distributed system patterns, containerized deployments (**Docker**, **Kubernetes**), and CI/CD automation.
 
-# Projects
-## **[DrawSync](https://github.com/daviespr1406/DrawSyncFront)** -- **Bogotá, CO**
+🎓 B.S. in Computer Science — **Escuela Colombiana de Ingeniería Julio Garavito** (Expected 2027)
 
-Jan 2025 – Jun 2025
+---
 
-Server infrastructure for a real-time collaborative drawing multiplayer game. Manages game rooms, real-time communication via WebSockets, timer synchronization, and message broadcasting between all connected clients.
+### 🚀 Featured Projects
 
-- Real-time chat and voice chat communication
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**ParkingProject**](https://github.com/DSBAENAR/ParkingProject) | RESTful API for parking management with JWT auth, Redis caching, and Stripe payment processing | `Spring Boot` `Redis` `Stripe` `JWT` `JPA` |
+| [**DrawSync**](https://github.com/daviespr1406/DrawSync) | Real-time distributed drawing platform with WebSocket synchronization across concurrent players | `Spring Boot` `WebSockets` `STOMP` `React` `Next.js` |
+| [**Gestión Turnos ECIBienestar**](https://github.com/DSBAENAR/Gestion-Turnos-ECIBienestar) | High-throughput reactive queue management system for university wellness services | `Spring WebFlux` `MongoDB` `JWT` `Swagger` |
 
-- Authentication and authorization management with external provider using AWS Cognito
+---
 
-- Lobby system, synchronized timers, and real-time updates.
+### 🛠️ Tech Stack
 
+**Languages**  
+![Java](https://img.shields.io/badge/Java_17-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-## **[Queue Management ECIBienestar](https://github.com/DSBAENAR/Gestion-Turnos-ECIBienestar)** -- **Bogotá, CO**
+**Frameworks & Libraries**  
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring WebFlux](https://img.shields.io/badge/Spring_WebFlux-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate/JPA-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-Aug 2024 – Dec 2024
+**Architecture & Patterns**  
+`Microservices` `REST APIs` `WebSockets` `Reactive Programming` `Distributed Systems`
 
-Queue management system developed in Java using Spring WebFlux and MongoDB, oriented to user assistance in university wellness services (psychology, general medicine, dentistry, etc.). Provides a REST API for creating, querying, and managing queues, with JWT authentication integration and cloud-ready deployment.
+**Databases**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 
-- Queue management: Create, query, delete, and list appointments by user, role, or specialty.
+**DevOps & Cloud**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 
-- Prioritization: Support for special priority appointments.
+**Testing & Quality**  
+![JUnit](https://img.shields.io/badge/JUnit_5-25A162?style=flat-square&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-78A641?style=flat-square)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
 
-- User roles: Access control and customization based on user type (e.g., administrator, doctor, psychologist).
+---
 
-- Integration: Communication with external authentication and user services.
+### 📊 GitHub Stats
 
-- Documented API: Use of Swagger/OpenAPI to facilitate integration and testing.
+<p align="center">
+ <a href="https://github.com/DSBAENAR">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DSBAENAR&theme=github-dark-blue&hide_border=true" height="165"/>
+  </a>
+  <a href="https://github.com/DSBAENAR">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DSBAENAR&theme=github_dark" width="100%"/>
+  </a>
+</p>
 
-- Security: CORS configuration and security rules adapted for development and production.
+---
 
-
-# Skills
-**Languages:** Java, Python
-
-**Frameworks:** Spring, Hibernate
-
-**Infrastructure:** AWS,AZURE
+<p align="center">
+  <i>Open to opportunities in backend engineering, distributed systems, and cloud-native development.</i>
+</p>
